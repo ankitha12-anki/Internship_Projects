@@ -1,23 +1,9 @@
-## Task1: Matrix Operation Tool
+## Internship Projects
+This repository contains multiple tasks completed during the internship
 
-This project is a simple mathematical tool built in Python using **NumPy**.  
-It allows users to input matrices and perform a variety of mathematical operations through an interactive menu.
+### Contents
+- Task1 :Matrix Operation Tool
+- Task2 :
+- Task3 :
 
-### Features
-- Matrix Addition
-- Matrix Subtraction
-- Matrix Multiplication
-- Transpose
-- Determinant (for square matrices)
-- Rank
-
-### How to Run (Anaconda)
-1. Open the terminal/command prompt.
-2. Navigate to the project folder:
-   ---bash
-   cd Internship_Projects/Task1
-Run the script:
-  python Matrix_operation_tool.py
-### Screenshots
-1.[screenshot1](Task1/ss1.png.png)
-2.[screenshot2](Task1/ss2.png.png)
+Each task has its own folder with code,example output and README
