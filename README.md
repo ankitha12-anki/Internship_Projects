@@ -19,5 +19,5 @@ It allows users to input matrices and perform a variety of mathematical operatio
 Run the script:
   python Matrix_operation_tool.py
 ### Screenshots
-1.[screenshot1](ss1.png.png)
-2.[screenshot2](ss2.png.png)
+1.[screenshot1](Task1/ss1.png.png)
+2.[screenshot2](Task1/ss2.png.png)
