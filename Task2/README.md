@@ -26,10 +26,10 @@ Run the script:
 ### Screenshots
 
 
-![Bar Chart](ss.png)
+![Bar Chart](ss5.png.png)
 
 
-![Scatter Plot](ss4.png)
+![Scatter Plot](ss4.png.png)
 
 
-![Heatmap](ss5.png)
+![Heatmap](ss.png.png)
