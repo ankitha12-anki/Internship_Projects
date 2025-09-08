@@ -20,3 +20,16 @@ It also uses **Matplotlib** to visualize the data with bar charts, scatter plots
 2. Navigate to the Task2 folder:
    ```bash
    cd Internship_Projects/Task2
+Run the script:
+   python CSV+load.py data.csv
+
+### Screenshots
+
+
+![Bar Chart](ss.png)
+
+
+![Scatter Plot](ss4.png)
+
+
+![Heatmap](ss5.png)
