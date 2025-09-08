@@ -21,7 +21,7 @@ It also uses **Matplotlib** to visualize the data with bar charts, scatter plots
    ```bash
    cd Internship_Projects/Task2
 Run the script:
-   python CSV+load.py data.csv
+   python CSV_load.py data.csv
 
 ### Screenshots
 
