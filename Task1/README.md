@@ -3,6 +3,8 @@
 This project is a simple mathematical tool built in Python using **NumPy**.  
 It allows users to input matrices and perform a variety of mathematical operations through an interactive menu.
 
+---
+
 ### Features
 - Matrix Addition
 - Matrix Subtraction
@@ -10,6 +12,8 @@ It allows users to input matrices and perform a variety of mathematical operatio
 - Transpose
 - Determinant (for square matrices)
 - Rank
+
+---
 
 ### How to Run (Anaconda)
 1. Open the terminal/command prompt.
