@@ -20,11 +20,10 @@
        http://127.0.0.1:5000/
 
 ### Example Inputs & Outputs:
-Input: "I love this app!"
-
+1. Input: "I love this app!"
 Output: Sentiment = Positive | Polarity = 0.60 | Subjectivity = 0.75
 
-Input: "I hate waiting in long queues."
+2. Input: "I hate waiting in long queues."
 Output: Sentiment = Negative | Polarity = -0.80 | Subjectivity = 0.90
 
 Input: "The book is on the table."
