@@ -1,4 +1,4 @@
-## Task3 Sentiment Aanlysis using Flask + Textblob
+## Task3: Sentiment Aanlysis using Flask + Textblob
 
 ---
 
@@ -6,29 +6,22 @@
 - Python 3.x
 - Flask
 - TextBlob
-Install using:
+- ```Install using:
     pip install flask textblob
     python -m textblob.download_corpora   # run once if needed
 
-### Project Structure:
-Task3/
- ├─ app.py               # Flask application
- ├─ templates/
- │   └─ index.html       # HTML template
- └─ output.mp4             # Screen recording (optional)
- |_ screenshotd
 
 ### Steps to Run:
 1. Open Anaconda Prompt.
-2. Navigate to Task3 folder:
+2. ```Navigate to Task3 folder and Run the Flask app:
        cd Internship_Projects/Task3
-3. Run the Flask app:
        python app.py
-4. ```Open in browser:
+3. ```Open in browser:
        http://127.0.0.1:5000/
 
 ### Example Inputs & Outputs:
 Input: "I love this app!"
+
 Output: Sentiment = Positive | Polarity = 0.60 | Subjectivity = 0.75
 
 Input: "I hate waiting in long queues."
